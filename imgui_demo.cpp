@@ -8576,6 +8576,9 @@ struct ExampleAppConsole
 
             ImGui::PopStyleVar();
         }
+
+
+
         ImGui::EndChild();
         ImGui::Separator();
 
